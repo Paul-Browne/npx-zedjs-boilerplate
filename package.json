@@ -1,0 +1,26 @@
+{
+  "name": "create-zedjs-app",
+  "version": "1.0.8",
+  "description": "Boilerplate a zedjs app",
+  "type": "module",
+  "bin": "./index.js",
+  "files": [
+    "*"
+  ],
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Browne/npx-zedjs-boilerplate.git"
+  },
+  "author": "Paul Browne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-Browne/npx-zedjs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Paul-Browne/npx-zedjs-boilerplate#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}

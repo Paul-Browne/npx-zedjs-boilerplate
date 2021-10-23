@@ -1,0 +1,50 @@
+{
+  "": {
+    "head": {
+      "title": "home | heyyou.dev"
+    },
+    "body": {},
+    "header": {},
+    "main": {
+      "headline": "this is the home page!"
+    }
+  },
+  "contact": {
+    "head": {
+      "title": "contact | heyyou.dev"
+    },
+    "body": {},
+    "header": {},
+    "main": {
+      "headline": "this is the contact page!"
+    }
+  },
+  "about": {
+    "head": {
+      "title": "about | heyyou.dev"
+    },
+    "body": {},
+    "header": {},
+    "main": {
+      "headline": "this is the about page!"
+    }
+  },
+  "test": {
+    "head": {
+      "title": "about | heyyou.dev"
+    },
+    "specialBody": {},
+    "header": {},
+    "main": {
+      "headline": "this is the about page!"
+    },
+    "xyz": {
+      "abc": {
+        "something": "ABC: this is something nested..."
+      },
+      "def": {
+        "something": "DEF: this is something nested..."
+      }
+    }
+  }
+}
