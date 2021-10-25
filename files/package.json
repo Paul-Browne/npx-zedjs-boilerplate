@@ -1,7 +1,7 @@
 {
-  "name": "heyyou.dev",
+  "name": "name",
   "version": "1.0.0",
-  "description": "Website for heyyou.dev",
+  "description": "description",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Paul-Browne/heyyou.dev.git"
+    "url": "git+https://github.com/[your-name]/[your-repo].git"
   },
   "author": "Paul Browne",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Paul-Browne/heyyou.dev/issues"
+    "url": "https://github.com/[your-name]/[your-repo]/issues"
   },
-  "homepage": "https://github.com/Paul-Browne/heyyou.dev#readme",
+  "homepage": "https://github.com/[your-name]/[your-repo]#readme",
   "devDependencies": {
     "web-build-process": "^3.0.2",
     "zedjs": "^4.0.3"

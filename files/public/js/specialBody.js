@@ -1,0 +1,1 @@
+!function(){"use strict";Z({id:"specialBody",render:function(){document.getElementById("body").innerHTML='\n      <header id="header"></header>\n      <main id="main"></main>\n      <section id="xyz"></section>\n      <footer id="footer"></footer>\n        '}})}();

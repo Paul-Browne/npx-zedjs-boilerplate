@@ -3,6 +3,8 @@ await wbp({
     source: "src",
     dist: "public",
     verbose: true,
+    sourceMaps: false,
     id: "qwertyuiop",
-    sourceMaps: false
+    cache: false,
+    prettify: true
 });

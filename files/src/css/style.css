@@ -1,5 +1,28 @@
-header pre {
-  line-height: 1;
-  letter-spacing: 4px;
-  font-size: 12px;
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+h1,
+h2,
+h3,
+p,
+a {
+  font-weight: 200;
+}
+h1 {
+  font-size: 2.5em;
+}
+h2 {
+  font-size: 1.7em;
+}
+h3 {
+  font-size: 1.3em;
+}
+a {
+  text-decoration: none;
 }
